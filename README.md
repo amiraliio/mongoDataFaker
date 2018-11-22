@@ -10,6 +10,7 @@ Run :
 
 
 You can change number of document you want insert from ```main.go``` file
+
 Default document is 2M
 
 
